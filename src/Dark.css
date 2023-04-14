@@ -1,0 +1,19 @@
+.container.dark{
+    background: #020b17
+}
+.cards__item.dark {
+    background: darkslategray;
+}
+.cards__title.dark {
+    color: aliceblue;
+}
+.cards__btn.dark{
+ background: #004c99;
+    color: #fff;
+}
+.cards__btn_danger.dark{
+    background: #970000;
+    color: #fff;
+}
+
+
